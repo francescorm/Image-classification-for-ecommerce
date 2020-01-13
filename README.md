@@ -20,10 +20,10 @@ Please note that you should resize input images to max 300kb because convolution
 ## Tests
 
 You can try software with test images inside 'todo' folder. 
-
+Please, note the it's just a script ;) if you need changes just ask!
 
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+Creative Commons
 
